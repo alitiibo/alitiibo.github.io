@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://alitiibo.github.io/COT/sitemap_index.txt
+Sitemap: https://alitiibo.github.io/Dsr/sitemap_index.txt
+Sitemap: https://alitiibo.github.io/SRc/sitemap_index.txt
+Sitemap: https://alitiibo.github.io/aHt/sitemap_index.txt
